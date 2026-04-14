@@ -12,26 +12,28 @@ This roadmap is a complete guide to mastering Laravel development from intermedi
 
 ### 🎯 Key Metrics
 
-| Metric | Value |
-|--------|-------|
-| **Total Duration** | 16 weeks |
-| **Number of Phases** | 5 |
-| **Daily Time Commitment** | ~2 hours |
-| **Total Topics** | 70+ topics |
-| **Practical Checkpoints** | One per phase |
-| **Starting Level** | 55% (Intermediate) |
-| **Target Level** | 100% (Junior Ready) |
+| Metric                    | Value               |
+| ------------------------- | ------------------- |
+| **Total Duration**        | 16 weeks            |
+| **Number of Phases**      | 5                   |
+| **Daily Time Commitment** | ~2 hours            |
+| **Total Topics**          | 70+ topics          |
+| **Practical Checkpoints** | One per phase       |
+| **Starting Level**        | 55% (Intermediate)  |
+| **Target Level**          | 100% (Junior Ready) |
 
 ---
 
 ## 🚀 Phase Breakdown
 
 ### Phase 00: Fill the Critical Gaps
+
 **Duration:** Week 1–2 | **Time:** ~14 hours | **Status:** 🔴 Must Complete First
 
 Master the foundational concepts you must know for Laravel mastery.
 
 **Topics:**
+
 - OOP Pillars (encapsulation, inheritance, polymorphism, abstraction, interfaces)
 - SOLID Principles (all 5)
 - Dependency Injection & IoC
@@ -44,11 +46,13 @@ Master the foundational concepts you must know for Laravel mastery.
 ---
 
 ### Phase 01: Laravel Deep Mastery
+
 **Duration:** Week 3–6 | **Time:** ~28 hours | **Status:** 🟡 Core Foundation
 
 Deep dive into Laravel's architecture and advanced features.
 
 **Topics:**
+
 - Laravel Request Lifecycle
 - Eloquent ORM — Advanced
 - Queues & Jobs
@@ -65,11 +69,13 @@ Deep dive into Laravel's architecture and advanced features.
 ---
 
 ### Phase 02: Database & Performance
+
 **Duration:** Week 7–9 | **Time:** ~21 hours | **Status:** 🔵 Deep Knowledge
 
 Optimize your database skills and code performance.
 
 **Topics:**
+
 - MySQL Joins — All Types
 - Indexing — Deep Mastery
 - Transactions & Data Integrity
@@ -82,11 +88,13 @@ Optimize your database skills and code performance.
 ---
 
 ### Phase 03: Security, Testing & Clean Code
+
 **Duration:** Week 10–13 | **Time:** ~28 hours | **Status:** 🟢 Professional Skills
 
 Write production-ready, secure, well-tested code.
 
 **Topics:**
+
 - Security — All Major Attacks
 - Testing — PHPUnit & Pest
 - Clean Code Practices
@@ -99,11 +107,13 @@ Write production-ready, secure, well-tested code.
 ---
 
 ### Phase 04: Job-Ready Polish
+
 **Duration:** Week 14–16 | **Time:** ~21 hours | **Status:** 🟣 Launch Ready
 
 Build your portfolio and prepare for the job market.
 
 **Topics:**
+
 - Portfolio Project (Exam Management API)
 - Interview Preparation
 - Freelance Setup
@@ -120,17 +130,20 @@ Build your portfolio and prepare for the job market.
 This roadmap includes a fully interactive web-based tracker:
 
 ### ✅ Progress Tracking
+
 - Check off individual topics and checkpoints as you complete them
 - Real-time progress bars for each phase
 - Overall completion percentage displayed in the header
 - All progress automatically saved to browser
 
 ### 📊 Export & Analytics
+
 - Click "📊 Export Progress" to download your progress report
 - JSON format includes completed task names, phase breakdown, and timestamps
 - Filename includes total completed tasks count: `roadmap-progress-45completed-2026-04-14.json`
 
 ### 🔄 Data Management
+
 - Progress persists across browser sessions
 - Clear all progress with one button if needed
 - No account required—uses browser's local storage
@@ -141,18 +154,19 @@ This roadmap includes a fully interactive web-based tracker:
 
 All topics are categorized by importance:
 
-| Badge | Meaning | Action |
-|-------|---------|--------|
-| 🔴 **Critical** | Interview will test this | Study deeply, memorize examples |
-| 🟡 **High** | Needed for production work | Implement in real projects |
-| 🟢 **Medium** | Makes you stand out | Learn, but less urgent |
-| 🔵 **Awareness** | Know it exists | Surface-level understanding |
+| Badge            | Meaning                    | Action                          |
+| ---------------- | -------------------------- | ------------------------------- |
+| 🔴 **Critical**  | Interview will test this   | Study deeply, memorize examples |
+| 🟡 **High**      | Needed for production work | Implement in real projects      |
+| 🟢 **Medium**    | Makes you stand out        | Learn, but less urgent          |
+| 🔵 **Awareness** | Know it exists             | Surface-level understanding     |
 
 ---
 
 ## 🎓 How to Use This Roadmap
 
 ### 1. **Start with Phase 00**
+
 Don't skip the critical gaps. These are foundational for everything else.
 
 ```
@@ -160,36 +174,41 @@ Open index.html → Start checking off topics → Track your progress
 ```
 
 ### 2. **Follow the Phase Order**
+
 Each phase builds on the previous one. Don't jump ahead.
 
 ### 3. **Complete Checkpoints**
+
 Each phase has practical assignments. Don't move to the next phase until you complete them.
 
 ### 4. **Track Progress**
+
 - Check boxes ✓ as you learn each topic
 - Watch phase progress bars fill up
 - Export your progress weekly to stay motivated
 
 ### 5. **Use the Resources**
+
 Each phase includes curated learning resources from Laracasts, Laravel docs, and community experts.
 
 ---
 
 ## 🎯 Phase Overview Table
 
-| Phase | Name | Weeks | Focus Area | Difficulty |
-|-------|------|-------|-----------|-----------|
-| **00** | Fill the Critical Gaps | 1-2 | OOP, SOLID, Security | Foundation |
-| **01** | Laravel Deep Mastery | 3-6 | Architecture, APIs, Queues | Intermediate |
-| **02** | Database & Performance | 7-9 | Optimization, Indexing | Advanced |
-| **03** | Security, Testing & Clean Code | 10-13 | Professional Practices | Expert |
-| **04** | Job-Ready Polish | 14-16 | Portfolio, Interviews | Ready |
+| Phase  | Name                           | Weeks | Focus Area                 | Difficulty   |
+| ------ | ------------------------------ | ----- | -------------------------- | ------------ |
+| **00** | Fill the Critical Gaps         | 1-2   | OOP, SOLID, Security       | Foundation   |
+| **01** | Laravel Deep Mastery           | 3-6   | Architecture, APIs, Queues | Intermediate |
+| **02** | Database & Performance         | 7-9   | Optimization, Indexing     | Advanced     |
+| **03** | Security, Testing & Clean Code | 10-13 | Professional Practices     | Expert       |
+| **04** | Job-Ready Polish               | 14-16 | Portfolio, Interviews      | Ready        |
 
 ---
 
 ## 🏆 Checkpoint Summary
 
 ### Phase 0 Checkpoint
+
 - [ ] Explain abstract classes vs interfaces with code
 - [ ] Name all 5 SOLID principles
 - [ ] Explain DI, Service Container, Service Provider
@@ -198,6 +217,7 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 - [ ] Identify SQL injection vulnerabilities
 
 ### Phase 1 Checkpoint
+
 - [ ] Build Student CRUD API
 - [ ] Implement belongsToMany relationships
 - [ ] Create custom middleware
@@ -208,14 +228,16 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 - [ ] Version API at /api/v1/
 
 ### Phase 2 Checkpoint
+
 - [ ] Run EXPLAIN on 3 queries, add missing indexes
 - [ ] Wrap payment logic in DB::transaction()
-- [ ] Replace all SELECT * with specific columns
+- [ ] Replace all SELECT \* with specific columns
 - [ ] Use chunk() for large datasets
 - [ ] Cache one heavy query
 - [ ] Write 3 queries using JOINs
 
 ### Phase 3 Checkpoint
+
 - [ ] Write 10+ feature tests
 - [ ] Identify 2 security vulnerabilities
 - [ ] Refactor one controller into a Service class
@@ -224,6 +246,7 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 - [ ] Write complete README with setup
 
 ### Phase 4 Checkpoint
+
 - [ ] Portfolio project live on GitHub
 - [ ] Answer all 10 interview questions
 - [ ] Complete Upwork & LinkedIn profiles
@@ -236,6 +259,7 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 ## 💡 Quick Start Guide
 
 ### Prerequisites
+
 - PHP 8.1+ installed
 - Composer installed
 - Git configured
@@ -245,9 +269,11 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 ### Getting Started
 
 1. **Open the roadmap:**
+
    ```bash
    open index.html
    ```
+
    Or paste the file path in your browser
 
 2. **Start with Phase 0:**
@@ -270,16 +296,19 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 ## 📚 Core Learning Resources
 
 ### Videos & Tutorials
+
 - **Laracasts** - laracasts.com (comprehensive paid + free courses)
 - **YouTube** - freeCodeCamp, Traversy Media, Laracasts
 - **Laravel Official** - laravel.com/docs (always authoritative)
 
 ### Books & References
+
 - Clean Code - Robert C. Martin
 - PHP The Right Way - phptherightway.com
 - OWASP Top 10 - owasp.org (security)
 
 ### Practical Platforms
+
 - Mostaql.com (Arabic freelance platform to start)
 - Upwork.com (Global freelancing)
 - LinkedIn (Professional networking)
@@ -289,28 +318,35 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 ## ⚡ Pro Tips for Success
 
 ### 1. **Consistency Over Perfection**
+
 Study for ~2 hours daily rather than 10 hours one day per week.
 
 ### 2. **Build Real Projects**
+
 Don't just watch tutorials. Implement everything you learn in real projects.
 
 ### 3. **Join Communities**
+
 - Laravel Discord servers
 - Email communities for developers
 - Local developer meetups
 
 ### 4. **Document Your Learning**
+
 - Take notes in Obsidian or Notion
 - Write blog posts explaining concepts
 - Create code snippets for reference
 
 ### 5. **Practice Interview Questions**
+
 At Phase 4, memorize the 10 interview questions and be able to answer without notes.
 
 ### 6. **Don't Skip Security**
+
 Security is tested heavily in interviews. Know the OWASP Top 10.
 
 ### 7. **Git Proficiency**
+
 Use conventional commits from day one. Employers check your commit history.
 
 ---
@@ -328,7 +364,7 @@ By the end of Phase 4, you should:
 ✅ Deploy applications to production servers  
 ✅ Answer all junior-level interview questions  
 ✅ Have a stunning portfolio project on GitHub  
-✅ Be prepared for freelance or employment opportunities  
+✅ Be prepared for freelance or employment opportunities
 
 ---
 
@@ -355,6 +391,7 @@ This roadmap is **fully interactive**:
 5. Resume where you left off
 
 ### Example Export Data:
+
 ```json
 {
   "exported": "April 14, 2026",
