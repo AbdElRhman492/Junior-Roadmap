@@ -276,16 +276,50 @@ Each phase includes curated learning resources from Laracasts, Laravel docs, and
 
    Or paste the file path in your browser
 
-2. **Start with Phase 0:**
+2. **[Optional] Create organized learning folders:**
+
+   **Option A - Using Python (Recommended):**
+   ```bash
+   python3 setup-folders.py
+   ```
+
+   **Option B - Using Bash/Shell (macOS/Linux):**
+   ```bash
+   chmod +x setup-folders.sh
+   ./setup-folders.sh
+   ```
+
+   This creates:
+   - 5 Phase folders
+   - 32 Topic subfolders (one per topic)
+   - `notes.md` template in each topic (for your notes)
+   - `code-examples.php` in each topic (for code)
+
+   **Folder Structure:**
+   ```
+   Learning/
+   ├── Phase 00 - Fill the Critical Gaps/
+   │   ├── 01 - OOP Pillars/
+   │   ├── 02 - SOLID Principles/
+   │   └── ... (6 topics + checkpoint)
+   ├── Phase 01 - Laravel Deep Mastery/
+   │   └── ... (10 topics + checkpoint)
+   ├── Phase 02 - Database & Performance/
+   ├── Phase 03 - Security, Testing & Clean Code/
+   └── Phase 04 - Job-Ready Polish/
+   ```
+
+3. **Start with Phase 0:**
    - Read each topic carefully
-   - Take notes on unfamiliar concepts
-   - Click checkboxes as you learn
+   - Take notes in `Learning/Phase 00/[Topic]/notes.md`
+   - Add code examples in `code-examples.php`
+   - Click checkboxes in index.html as you learn
    - Complete the checkpoint project
 
-3. **Follow the learning cycle:**
-   - Learn the concept → Implement it → Check it off → Move to next
+4. **Follow the learning cycle:**
+   - Learn the concept → Add notes → Implement it → Check it off → Move to next
 
-4. **Use the resources:**
+5. **Use the resources:**
    - Each phase has curated resources
    - Laracasts videos are recommended
    - Laravel official docs are authoritative
